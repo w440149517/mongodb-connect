@@ -1,0 +1,15 @@
+{
+"assembly_team": [
+	{
+		"id" : "zpb7pvqf314kbu35qm7q1so",
+		"name" : "默认团队",
+		"creator_id" : "9f73cbd7abf8ef171ed78f88434a7b61",
+		"creator" : "系统管理员",
+		"owner_id" : "9f73cbd7abf8ef171ed78f88434a7b61",
+		"create_time" : "2023-12-25T04:42:16.000Z",
+		"update_time" : "2023-12-25T09:42:34.000Z",
+		"description" : null,
+		"is_default" : 1,
+		"member_count" : 1
+	}
+]}

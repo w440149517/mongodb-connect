@@ -1,0 +1,51 @@
+{
+"assembly_styles": [
+	{
+		"id" : "bjkc5lcrhyaisetsgq4fx",
+		"name" : "111111111",
+		"creator_id" : "5c5af8ab446dbd66c4e520b2129dad7b",
+		"creator" : "彭红丽",
+		"create_time" : "2023-10-26T08:59:01.000Z",
+		"update_time" : "2023-10-26T08:59:01.000Z",
+		"reviser" : null,
+		"reviser_id" : null,
+		"css_code" : "\".text-red-1 {\\n  color: red;\\n}\\n\\n.back-blue-2 {\\n  background-color: blue;\\n}\\n\\n.opacity-3 {\\n  opacity: 0.1;\\n}\"",
+		"remark" : "22222"
+	},
+	{
+		"id" : "znfjkran8vm3o42qju6go",
+		"name" : "222222",
+		"creator_id" : "5c5af8ab446dbd66c4e520b2129dad7b",
+		"creator" : "彭红丽",
+		"create_time" : "2023-10-26T08:59:09.000Z",
+		"update_time" : "2023-10-26T09:02:07.000Z",
+		"reviser" : "彭红丽",
+		"reviser_id" : "5c5af8ab446dbd66c4e520b2129dad7b",
+		"css_code" : "\".text-red-11 {\\n  color: red;\\n}\\n\\n.back-blue-22 {\\n  background-color: blue;\\n}\\n\\n.opacity-33 {\\n  opacity: 0.1;\\n}\"",
+		"remark" : "22222"
+	},
+	{
+		"id" : "3o5uvakegmu3hacbrzkns",
+		"name" : "fsdf",
+		"creator_id" : "fd3badfd5ebedae7efbcfcdc23aff42b",
+		"creator" : "谭光志",
+		"create_time" : "2023-11-06T06:10:40.308Z",
+		"update_time" : "2023-11-06T06:10:42.077Z",
+		"reviser" : "谭光志",
+		"reviser_id" : "fd3badfd5ebedae7efbcfcdc23aff42b",
+		"css_code" : "\"sfsd\"",
+		"remark" : ""
+	},
+	{
+		"id" : "x8q40vbh6tfqsmw2jica0",
+		"name" : "页面容器",
+		"creator_id" : "dfba72f353645586b9a47ea31fd0287d",
+		"creator" : "李洋",
+		"create_time" : "2023-11-28T00:04:07.338Z",
+		"update_time" : null,
+		"reviser" : null,
+		"reviser_id" : null,
+		"css_code" : "\".view-container > div:last-child {\\n  flex: 1;\\n}\"",
+		"remark" : ""
+	}
+]}
